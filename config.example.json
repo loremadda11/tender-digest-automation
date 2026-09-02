@@ -1,0 +1,10 @@
+{
+  "dataRoot": "./data",
+  "stableAgeSeconds": 30,
+  "lockStaleMinutes": 15,
+  "report": {
+    "targetRegions": ["North", "Central"],
+    "minimumOpportunityValue": 1000000,
+    "maximumRows": 20
+  }
+}
