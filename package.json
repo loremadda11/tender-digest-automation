@@ -1,0 +1,29 @@
+{
+  "name": "tender-digest-automation",
+  "version": "1.0.0",
+  "description": "Sanitized reference implementation for turning procurement digest files into concise Word reports.",
+  "main": "src/generate-report.js",
+  "type": "commonjs",
+  "scripts": {
+    "demo": "node src/generate-report.js sample-data/sample-digest.txt demo-output.docx",
+    "process": "node src/process-inbox.js config.example.json",
+    "check": "node --check src/parser.js && node --check src/generate-report.js && node --check src/process-inbox.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "automation",
+    "procurement",
+    "pdf",
+    "docx",
+    "power-automate",
+    "sharepoint"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "docx": "9.7.1",
+    "pdf-parse": "2.4.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
