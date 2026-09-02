@@ -1,0 +1,37 @@
+DAILY PROCUREMENT DIGEST 2026-09-01
+---
+ID: DEMO-001
+REGION: North
+AUTHORITY: Example City Infrastructure Office
+TITLE: Energy retrofit for three public schools
+VALUE: 7200000
+DEADLINE: 2026-09-12
+STATUS: OPEN
+CATEGORY: Building works
+---
+ID: DEMO-002
+REGION: Central
+AUTHORITY: Sample Regional Transport Agency
+TITLE: Railway station accessibility upgrades
+VALUE: 2850000
+DEADLINE: 2026-09-18
+STATUS: OPEN
+CATEGORY: Transport infrastructure
+---
+ID: DEMO-003
+REGION: South
+AUTHORITY: Demonstration Water Utility
+TITLE: Maintenance framework for pumping stations
+VALUE: 950000
+DEADLINE: 2026-09-25
+STATUS: OPEN
+CATEGORY: Maintenance
+---
+ID: DEMO-004
+REGION: North
+AUTHORITY: Fictional Procurement Board
+TITLE: Civic centre refurbishment award
+VALUE: 1640000
+DEADLINE: 2026-08-28
+STATUS: AWARDED
+CATEGORY: Building works
